@@ -23,7 +23,7 @@ If you want to contact me, my discord is: @bappy#0001<br></br>
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/cli-tools-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arrdevv&repo=cli-tools-v2&theme=nord&show_owner=true" />
+<a href="https://github.com/arrdevv/cli-tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arrdevv&repo=cli-tools&theme=nord&show_owner=true" />
 </a>
  
