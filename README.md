@@ -23,7 +23,7 @@ I currently code in Javascript but would like to expand on that. Ive made an <a 
 </p>
 
 <p align="center">
-If you want to contact me, my discord is: @bappy#0001<br></br>
+If you want to contact me, my discord is: @bappy#5226<br></br>
 <a href="https://github-readme-stats.vercel.app/api?username=arrdevv&show_icons=true&theme=nord">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arrdevv&show_icons=true&theme=nord" />
 </a><br></br>
