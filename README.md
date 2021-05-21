@@ -37,8 +37,3 @@ If you want to contact me, my discord is: @bappy#5226<br></br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arrdevv&langs_count=8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrdevv&langs_count=8&theme=nord&layout=compact" />
 </a><br></br>
-
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=arrdevv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arrdevv&theme=nord" />
-</a><br></br>
