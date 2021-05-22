@@ -1,6 +1,6 @@
 <p align="center">
-<h2>Alooo</h2>
-<p align="center">Im arrdev, bappy, arrendev, and anything else you can think of. I code as a hobby, and hope to be a fullstack developer one day.
+<h2>Sup Nerds</h2>
+<p>Hello, Im Bappy. I code as a hobby, and hope to be a fullstack developer one day.
 I currently code in Javascript but would like to expand on that. Ive made an <a href="https://www.npmjs.com/package/@arrdev/cli-tools">NPM Package</a>, and have messed with other projects.</p>
 
 <p align="center">
@@ -27,11 +27,6 @@ If you want to contact me, my discord is: @bappy#5226<br></br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arrdevv&show_icons=true&theme=nord" />
 </a><br></br>
 </p>
-
-<p align="center">
-<a href="https://github.com/arrdevv/cli-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arrdevv&repo=cli-tools&theme=nord&show_owner=true" />
-</a><br></br>
   
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arrdevv&langs_count=8">
