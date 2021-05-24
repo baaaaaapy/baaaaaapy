@@ -15,20 +15,20 @@ I currently code in Javascript but would like to expand on that. Ive made an <a 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt = "Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <p align="center">
-<a href="https://github-profile-trophy.vercel.app/?username=arrdevv&theme=nord">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=arrdevv&theme=nord" />
+<a href="https://github-profile-trophy.vercel.app/?username=BappyWasTaken&theme=nord">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=BappyWasTaken&theme=nord" />
 </a><br></br>
 </p>
 </p>
 
 <p align="center">
 If you want to contact me, my discord is: @bappy#5226<br></br>
-<a href="https://github-readme-stats.vercel.app/api?username=arrdevv&show_icons=true&theme=nord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arrdevv&show_icons=true&theme=nord" />
+<a href="https://github-readme-stats.vercel.app/api?username=BappyWasTaken&show_icons=true&theme=nord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BappyWasTaken&show_icons=true&theme=nord" />
 </a><br></br>
 </p>
   
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arrdevv&langs_count=8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrdevv&langs_count=8&theme=nord&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BappyWasTaken&langs_count=8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BappyWasTaken&langs_count=8&theme=nord&layout=compact" />
 </a><br></br>
