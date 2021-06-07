@@ -15,7 +15,7 @@ I currently code in Javascript but would like to expand on that. Ive made an <a 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt = "Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <p align="center">
-If you want to contact me, my discord is: @bappy#0001<br></br>
+If you want to contact me, my discord is: @bappy#6789<br></br>
 <a href="https://github-readme-stats.vercel.app/api?username=BappyWasTaken&show_icons=true&theme=nord">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BappyWasTaken&show_icons=true&theme=nord" />
 </a><br></br>
