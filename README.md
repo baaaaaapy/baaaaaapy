@@ -1,6 +1,6 @@
 <p align="center" >
   <a href="https://github.com/BappyWasTaken">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6cbd5541-81e7-40a9-866b-3017846358cc/ddzw8bv-6bc83af0-e528-45b4-b16a-d4371a47dcae.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZjYmQ1NTQxLTgxZTctNDBhOS04NjZiLTMwMTc4NDYzNThjY1wvZGR6dzhidi02YmM4M2FmMC1lNTI4LTQ1YjQtYjE2YS1kNDM3MWE0N2RjYWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HO-YWWPUd94yuYdw0BYc-gmQuJQL_y6THBRt-r2Gky0" />
+  <img src="https://i.redd.it/1c331cu6ypj71.gif" />
 </p>
 
 <p align="center">
