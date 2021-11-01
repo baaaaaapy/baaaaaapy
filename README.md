@@ -23,7 +23,7 @@
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <a href="https://github.com/notJari">
+      <a href="https://github.com/bappywastaken">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=notjari&theme=tokyonight_duo&hide_border=true&ring=adb2d3&currStreakLabel=FFFFFF&sideNums=adb2d3&dates=979797&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=DD2727&stroke=00000000&background=00000000&fire=8B91B6" />
     </td>
   </tr>
