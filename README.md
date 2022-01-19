@@ -1,8 +1,3 @@
-<p align="center" >
-  <a href="https://github.com/BappyWasTaken">
-  <img src="https://i.redd.it/1c331cu6ypj71.gif" />
-</p>
-
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
