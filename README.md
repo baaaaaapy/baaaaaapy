@@ -19,7 +19,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/baaaaaapy">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=baaaaaapy&theme=tokyonight_duo&hide_border=true&ring=adb2d3&currStreakLabel=FFFFFF&sideNums=adb2d3&dates=979797&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=DD2727&stroke=00000000&background=00000000&fire=8B91B6" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=baaaaaapy&theme=tokyonight_duo&hide_border=true&ring=adb2d3&currStreakLabel=adb2d3&sideNums=9f9f9f&dates=979797&sideLabels=adb2d3&currStreakNum=9f9f9f&border=DD2727&stroke=00000000&background=00000000&fire=8B91B6" />
     </td>
   </tr>
 </p>
