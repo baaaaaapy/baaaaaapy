@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baaaaaapy"/> </p>
-
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -25,8 +23,4 @@
     </td>
   </tr>
 </p>
-
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/933549055538249728.png">
-<p>
 
