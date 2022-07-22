@@ -1,1 +1,1 @@
-![Metrics](/metrics.plugin.achievements.svg)
+Hi this is a placeholder
